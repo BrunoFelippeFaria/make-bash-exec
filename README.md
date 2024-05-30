@@ -7,7 +7,7 @@ um programa simples, para a criação de executaveis em bash no linux
 para instalar, primeiro faça uma copia do repositorio com o seguinte comando:
 
 ```bash
-git clone https://github.com/BrunoFelippeFaria/make-bash-exec.git
+git clone "https://github.com/BrunoFelippeFaria/make-bash-exec.git"
 ```
 
 e então acesse com:
